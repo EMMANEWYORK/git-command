@@ -6,3 +6,9 @@ this ripos contains the command for working with git
   ```bash
   git init
   ```
+
+  `git status` this command is used to push th code from the local repository
+  ```sh
+  git status
+  ```
+  ![](./assets/screnshot.png)
